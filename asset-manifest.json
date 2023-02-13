@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.c5105f34.css",
-    "main.js": "/static/js/main.9e3fe792.js",
+    "main.js": "/static/js/main.8d84d73c.js",
     "static/media/my.png": "/static/media/my.f922b44bcc0a3bf3233f.png",
     "static/media/my_about2.jpg": "/static/media/my_about2.5dd1b48b6711dab76032.jpg",
+    "static/media/airbnb.png": "/static/media/airbnb.2de18741d0445ea6286a.png",
     "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/OpenstackPortfolio.png": "/static/media/OpenstackPortfolio.9c2d21aa85cae20f318b.png",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/LearningPlatform.png": "/static/media/LearningPlatform.b72d7709f55e29145cd3.png",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/resume.docx": "/static/media/resume.78fae9457c89781e1ba4.docx",
+    "static/media/resume.docx": "/static/media/resume.b9229115582c1c24689f.docx",
     "static/media/sshPortfolio.png": "/static/media/sshPortfolio.19d5540e38344f55e386.png",
     "static/media/portfolioProj.png": "/static/media/portfolioProj.474ddf5d3ea5d0007f54.png",
     "index.html": "/index.html",
     "main.c5105f34.css.map": "/static/css/main.c5105f34.css.map",
-    "main.9e3fe792.js.map": "/static/js/main.9e3fe792.js.map"
+    "main.8d84d73c.js.map": "/static/js/main.8d84d73c.js.map"
   },
   "entrypoints": [
     "static/css/main.c5105f34.css",
-    "static/js/main.9e3fe792.js"
+    "static/js/main.8d84d73c.js"
   ]
 }
