@@ -9,7 +9,7 @@ import IMG6 from '../../assests/portfolio6.jpg'
 import {BiCheck} from 'react-icons/bi'
 import IDS from '../../assests/IDS.jpg'
 import PortfolioProj from '../../assests/portfolioProj.png'
-import LearningPortfolio from '../../assests/LearningPlatform.png'
+import airbnb from '../../assests/airbnb.png'
 import OpenstackPortfolio from '../../assests/OpenstackPortfolio.png'
 import AndroidPortfolio from '../../assests/androidPortfolio.png'
 import SSHPortfolio from '../../assests/sshPortfolio.png'
@@ -33,9 +33,9 @@ const data = [
   },
   {
     id: 3,
-    image: LearningPortfolio,
-    title: 'A Learning Platform',
-    github: 'https://github.com/AjanSharma/Online-Exam-Assessment.git',
+    image: airbnb,
+    title: 'Airbnb Clone',
+    github: 'https://airbnb-clone-ten-plum.vercel.app/',
     demo: '1'
   },
   {

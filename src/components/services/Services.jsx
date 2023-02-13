@@ -69,31 +69,31 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Developing and deploying automated solutions for business.</p>
+                <p>Designing, building, and maintaining the secure, scalable, and high-performance applications.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Build Python scripts for automation of tools and reports.</p>
+                <p>Developing and deploying automated solutions for business </p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Providing technical (Unix, MSSQL, DB2) assistance to development teams.</p>
+                <p>Developing and integrating database systems to ensure the efficient transfer of data between different systems.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Working as change coordinator for deployment of fixes and new advancements in application.  </p>
+                <p>Experience in using bug tracking tool JIRA.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Analyze, debug and advancing existing automated python scripts.</p>
+                <p>Analyze, debug, and resolve application issues.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Involved in implementation and advancement of Autosys jobs </p>
+                <p>Involved in implementation of Autosys jobs </p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Implementing dashboards and analyzing the data through Microsoft PowerBi.</p>
+                <p>Participating in code reviews to ensure the code meets quality and performance standards</p>
               </li>
             </ul>
           </SwiperSlide>
@@ -179,7 +179,11 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Automation of toils, as well as development of quick CLI tools for efficient daily support.</p>
+                <p>Designing, implementing, and maintaining the DevOps processes and systems used by the organization to develop, test, deploy, and manage software applications and services.</p>
+              </li>
+              <li>
+                <BiCheck className='service__list-icon'/>
+                <p>Automating the build, deployment, and testing processes for software applications and services using Azure DevOps, including Azure Pipelines</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
@@ -187,15 +191,11 @@ const Services = () => {
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Technical (Unix and Sybase) support/monitoring on the central database repository that stores fixed income commodities trades and positions data.</p>
+                <p>Provide L3 support on mission-critical Trading and Risk Application</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Working on SQL queries/extracts, upon data requests from users including the Trading desk.  </p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Provide support on mission-critical Trading and Risk Application</p>
+                <p>Experienced with Docker container service.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
@@ -212,15 +212,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Gathering Intraday risk run requirement from commodities traders, for the management/ optimization of profit and loss runs via Autosys tooling.</p>
+                <p>Build pipelines in Azure DevOps to enable CI/CD for both pre-production and production environments, which significantly reduced deployment time and effort.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Creation of new Risk run definitions for trading desks.</p>
+                <p>Experienced in Branching, Merging, and maintaining the version across the environments using SCM tools like Git.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Incident/Problem management, assisting with outage resolution followed by RCA.</p>
+                <p>Working on SQL queries/extracts related to the Trading desk.</p>
               </li>
             </ul>
           </SwiperSlide>
