@@ -11,25 +11,24 @@ import IDS from '../../assests/IDS.jpg'
 import PortfolioProj from '../../assests/portfolioProj.png'
 import airbnb from '../../assests/airbnb.png'
 import OpenstackPortfolio from '../../assests/OpenstackPortfolio.png'
-import AndroidPortfolio from '../../assests/androidPortfolio.png'
+// import AndroidPortfolio from '../../assests/androidPortfolio.png'
+import moneyMarket from '../../assests/moneyMarket.jpg'
 import SSHPortfolio from '../../assests/sshPortfolio.png'
-
-
 
 const data = [
   {
     id: 1,
+    image: moneyMarket,
+    title: 'Refactor Trading Application',
+    github: '#contact',
+    demo: '0'
+  },
+  {
+    id: 2,
     image: PortfolioProj,
     title: 'Portfolio',
     github: '#',
     demo: '1'
-  },
-  {
-    id: 2,
-    image: IDS,
-    title: 'Supervised Intrusion Detection System for Smart Home IoT devices',
-    github: '#contact',
-    demo: '0'
   },
   {
     id: 3,
@@ -40,26 +39,71 @@ const data = [
   },
   {
     id: 4,
+    image: SSHPortfolio,
+    title: 'SSH implementation for device Configuration',
+    github: 'https://github.com/AjanSharma/ssh-automation-switches',
+    demo: '1'
+  },
+  {
+    id: 5,
     image: OpenstackPortfolio,
     title: 'Virtual Network Functions (VNF) automation in Openstack',
     github: '#contact',
     demo: '0'
   },
   {
-    id: 5,
-    image: AndroidPortfolio,
-    title: 'No Fickrr – Android Application',
-    github: 'https://github.com/AjanSharma/AndroidApplication',
-    demo: '1'
-  },
-  {
     id: 6,
-    image: SSHPortfolio,
-    title: 'SSH implementation for device Configuration',
-    github: 'https://github.com/AjanSharma/ssh-automation-switches',
-    demo: '1'
+    image: IDS,
+    title: 'Supervised Intrusion Detection System for Smart Home IoT devices',
+    github: '#contact',
+    demo: '0'
   }
 ]
+
+// const data = [
+//   {
+//     id: 1,
+//     image: PortfolioProj,
+//     title: 'Portfolio',
+//     github: '#',
+//     demo: '1'
+//   },
+//   {
+//     id: 2,
+//     image: IDS,
+//     title: 'Supervised Intrusion Detection System for Smart Home IoT devices',
+//     github: '#contact',
+//     demo: '0'
+//   },
+//   {
+//     id: 3,
+//     image: airbnb,
+//     title: 'Airbnb Clone',
+//     github: 'https://airbnb-clone-ten-plum.vercel.app/',
+//     demo: '1'
+//   },
+//   {
+//     id: 4,
+//     image: OpenstackPortfolio,
+//     title: 'Virtual Network Functions (VNF) automation in Openstack',
+//     github: '#contact',
+//     demo: '0'
+//   },
+//   {
+//     id: 5,
+//     image: moneyMarket,
+//     title: 'Refactor Trading Application',
+//     github: '#contact',
+//     demo: '0'
+//   },
+//   {
+//     id: 6,
+//     image: SSHPortfolio,
+//     title: 'SSH implementation for device Configuration',
+//     github: 'https://github.com/AjanSharma/ssh-automation-switches',
+//     demo: '1'
+//   }
+// ]
 
 
 // const data = [

@@ -3,7 +3,7 @@ import './Services.css'
 import {BiCheck} from 'react-icons/bi'
 import Citi from '../../assests/Citi4.png'
 import MS from '../../assests/MorganStanley.jpg'
-import TM from '../../assests/techMahindra.png'
+// import TM from '../../assests/techMahindra.png'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -257,8 +257,8 @@ const Services = () => {
             </li>
           </ul>
         </article> */}
-
-        <Swiper
+{/* ----------------------------------------------Tech Mahindra ----------------------------------------- */}
+        {/* <Swiper
         modules={[Pagination]}
         spaceBetween={40}
         slidesPerView={1}
@@ -273,28 +273,7 @@ const Services = () => {
             <img src={TM} className='img_logo'/>
 
 
-            {/* <ul className='service__list'>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-            </ul> */}
+            
           </SwiperSlide>
           <SwiperSlide className='service'>
             <div className="service__head">
@@ -329,35 +308,9 @@ const Services = () => {
               </li>
             </ul>
           </SwiperSlide>
-        </Swiper>
+        </Swiper> */}
 
-        {/* <article className='service'>
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-          </ul>
-        </article> */}
+        
       </div>
     </section>
   )
